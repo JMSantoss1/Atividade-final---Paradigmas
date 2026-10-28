@@ -4,6 +4,8 @@ Atividade Prática — Linguagens de Programação (Orientação a Objetos e Pro
 
 Implementação em **Python 3.9+**, sem dependências externas e sem banco de dados (dados em memória).
 
+Equipe: José Mateus dos Santos e Luiz Henrique da Silva Ramos
+
 ## Como executar
 
 ```bash
